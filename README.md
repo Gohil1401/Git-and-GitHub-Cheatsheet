@@ -1,2 +1,2 @@
 # Git-and-GitHub-Cheatsheet
-Git commands Pdf
+Git commands Pdf - all the necessary commands
